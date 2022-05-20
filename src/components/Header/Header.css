@@ -1,0 +1,15 @@
+.header {
+    width: 500px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+    position: fixed;
+    top: 1rem;
+    left: 50%;
+    margin-left: -250px;
+    z-index: 5;
+}

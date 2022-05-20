@@ -1,0 +1,9 @@
+.song-name {
+    text-align: center;
+    margin: 0.8rem 0 0.5rem 0;
+}
+.song-name>p {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #BF8CD5;
+}

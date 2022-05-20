@@ -1,0 +1,17 @@
+.song-thumnail {
+    margin: 0.5rem 0 0.5rem 0;
+}
+
+.song-thumnail__row {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 50%;
+}
+
+.song-thumnail--rotation {
+    -webkit-animation: rotating 50s linear infinite forwards;
+    -moz-animation: rotating 50s linear infinite forwards;
+    -ms-animation: rotating 50s linear infinite forwards;
+    -o-animation: rotating 50s linear infinite forwards;
+    animation: rotating 50s linear infinite forwards;
+}

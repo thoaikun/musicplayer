@@ -1,0 +1,47 @@
+.control {
+    width: 100%;
+    margin-bottom: 0.5rem;
+
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.control svg {
+    font-size: 0.9rem;
+    color: rgba(102, 101, 101, 0.664);
+}
+
+.btn--on {
+    color: #BF8CD5 !important;
+}
+
+.forward:active>svg,
+.backward:active>svg {
+    color: #BF8CD5 !important;
+}
+
+.play {
+    text-align: center;
+    flex-basis: 14%;
+    height: 70px;
+    background-color: #BF8CD5;
+    border-radius: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.play>svg {
+    color: white;
+}
+.pause-btn {
+    display: none !important;
+}
+.play-btn {
+    display: none !important;
+}
+.btn--show {
+    display: block !important;
+}

@@ -1,0 +1,20 @@
+.progress-line {
+    width: 100%;
+    margin: 0.5rem 0 1rem 0;
+    display: flex;
+    justify-content: center;
+}
+
+progress {
+    width: 90%;
+    height: 0.5rem;
+    border-radius: 2rem;
+
+    background-color: white;
+}
+progress::-webkit-progress-bar {
+    background-color: rgba(121, 121, 121, 0.356);
+}
+progress::-webkit-progress-value {
+    background-color: #BF8CD5;
+}
