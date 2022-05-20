@@ -33,50 +33,50 @@ let data : Song[] = [
         id : 0,
         name: 'Beyone Summer',
         artist: 'Hoang Dung',
-        link: '/Music/Mua\ He\ Bat\ Tan\ -\ Hoang\ Dung.mp3',
-        thumbnail: '/images/muahebattan.jpg'
+        link: './Music/Mua\ He\ Bat\ Tan\ -\ Hoang\ Dung.mp3',
+        thumbnail: './images/muahebattan.jpg'
     },
     {
         id  : 1,
         name: 'Drawer',
         artist: '10cm',
-        link: '/Music/Drawer\ -\ 10cm.mp3',
-        thumbnail: '/images/drawer.jpg'
+        link: './Music/Drawer\ -\ 10cm.mp3',
+        thumbnail: './images/drawer.jpg'
     },
     {
         id : 2,
         name: 'Bring Money Home',
         artist: 'Den',
         link: '/Music/Mang\ Tien\ Ve\ Cho\ Me\ -\ Den_\ Nguyen\ Thao.mp3',
-        thumbnail: '/images/mangtienvechome.jpg'
+        thumbnail: './images/mangtienvechome.jpg'
     },
     {
         id : 3,
         name: 'Happy For You',
         artist: 'Vu, Lukas Graham',
-        link: '/Music/Happy\ For\ You\ -\ Lukas\ Graham_\ Vu.mp3',
-        thumbnail: '/images/happyforyou.jpg'
+        link: './Music/Happy\ For\ You\ -\ Lukas\ Graham_\ Vu.mp3',
+        thumbnail: './images/happyforyou.jpg'
     },
     {
         id : 4,
         name: 'Christmas Tree',
         artist: 'V',
-        link: '/Music/Christmas\ Tree\ -\ V\ BTS_.mp3',
-        thumbnail: '/images/christmasTree.jpg'
+        link: './Music/Christmas\ Tree\ -\ V\ BTS_.mp3',
+        thumbnail: './images/christmasTree.jpg'
     },
     {
         id : 5,
         name: 'You',
         artist: 'IU',
-        link: '/Music/You\ -\ IU.mp3',
+        link: './Music/You\ -\ IU.mp3',
         thumbnail: '/images/pieces.jpg'
     },
     {
         id : 6,
         name: 'Nghe Noi',
         artist: 'V',
-        link: '/Music/Nghe\ -\ Noi\ -\ Obito_\ Pjpo.mp3',
-        thumbnail: '/images/rapviet.jpg'
+        link: './Music/Nghe\ -\ Noi\ -\ Obito_\ Pjpo.mp3',
+        thumbnail: './images/rapviet.jpg'
     }
 ]
 

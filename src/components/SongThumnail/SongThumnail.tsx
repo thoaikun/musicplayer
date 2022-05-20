@@ -9,7 +9,7 @@ const SongThumnail = () => {
     return (
         <div className='song-thumnail'>
             <img 
-                src={songId >= 0 ? songs[songId].thumbnail : '/images/turntable.png'} 
+                src={songId >= 0 ? songs[songId].thumbnail : './images/turntable.png'} 
                 className="song-thumnail__row song-thumnail--rotation"
             >
             </img>
